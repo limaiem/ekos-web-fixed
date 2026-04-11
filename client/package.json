@@ -20,7 +20,7 @@
   "devDependencies": {
     "@babel/eslint-parser": "^7.28.0",
     "@vitejs/plugin-vue": "^5.2.4",
-    "eslint": "^8.57.1",
+    "eslint": "^10.2.0",
     "eslint-plugin-vue": "^9.33.0",
     "sass": "^1.90.0",
     "sass-loader": "^13.3.3",
