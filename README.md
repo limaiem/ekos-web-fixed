@@ -13,19 +13,9 @@ See screenshots below for more info.
 
 ## Installation
 
-The easiest way to get going to to use the pre-built docker images.
-
-https://docs.docker.com/get-docker/
 
 ```bash
-docker pull rickbassham/ekos-web:latest
-docker run -p 3000:3000 -it rickbassham/ekos-web:latest
-```
-
-Otherwise, first checkout the code.
-
-```bash
-git clone https://github.com/rickbassham/ekos-web
+git clone https://github.com/limaiem/ekos-web-fixed
 cd ekos-web
 ```
 
