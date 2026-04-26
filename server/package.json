@@ -12,6 +12,6 @@
     "node-gpsd": "^0.3.4",
     "reconnecting-websocket": "^4.4.0",
     "server-graceful-shutdown": "^0.1.2",
-    "ws": "^7.5.10"
+    "ws": "^8.20.0"
   }
 }
